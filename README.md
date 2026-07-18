@@ -12,7 +12,8 @@ Controlling 3DOF robotics arm with ESP32 and integrated PID control system
 - ESP32 Microcontroller
 - 3-DOF Robotic Arm
 - Encoders for position feedback
-- Motor drivers
+- Motor drivers(MD10C)
+- Planetry geared DC motor
 
 ## Features
 - PID control algorithm for smooth and precise arm movements
